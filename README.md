@@ -1,1 +1,2 @@
-# Iris_Species
+# Iris Species Classification
+This project investigates the relationship between sepal length and petal length among 3 species of iris flowers (Iris setosa, Iris virginica and Iris versicolor). Worked independently to clean, analyze, and visualize relationship among iris species. This project was completed using Python and a linear regression model. Results from the analysis found a positive correlation between sepal width, petal length, and petal width in regards to sepal length of the iris species.
